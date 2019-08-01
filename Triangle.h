@@ -40,4 +40,8 @@ add fun1
 第19行
 
 第7次
+
+
+addd1
+
 @end
