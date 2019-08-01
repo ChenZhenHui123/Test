@@ -43,5 +43,6 @@ add fun1
 
 
 addd1
+addd2
 
 @end
